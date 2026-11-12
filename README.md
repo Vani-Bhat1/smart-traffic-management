@@ -1,4 +1,4 @@
-# Seva Sarthak: Unified Traffic & Crowd Management Dashboard
+# Smart Traffic Managment System
 ## 🚀 Features
 
 - **Digital Twin Traffic Simulation**: A physics-based micro-simulation engine that models vehicle behavior, priority yielding (e.g., for emergency vehicles), and traffic signal synchronization.
