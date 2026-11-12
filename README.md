@@ -1,9 +1,4 @@
 # Seva Sarthak: Unified Traffic & Crowd Management Dashboard
-
-**Winner of the BNMIT Hackathon (First Prize)**
-
-Seva Sarthak is a high-fidelity, interactive digital twin platform designed to optimize urban mobility and public safety. By integrating real-time traffic simulation with crowd management analytics, the platform empowers city administrators to make data-driven decisions.
-
 ## 🚀 Features
 
 - **Digital Twin Traffic Simulation**: A physics-based micro-simulation engine that models vehicle behavior, priority yielding (e.g., for emergency vehicles), and traffic signal synchronization.
